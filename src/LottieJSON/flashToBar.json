@@ -1,0 +1,1121 @@
+{
+  "v": "5.9.0",
+  "fr": 60,
+  "ip": 0,
+  "op": 178,
+  "w": 500,
+  "h": 500,
+  "nm": "Comp 5",
+  "ddd": 0,
+  "assets": [
+    {
+      "id": "image_0",
+      "w": 275,
+      "h": 293,
+      "u": "",
+      "p": "data:image/png;base64,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",
+      "e": 1
+    }
+  ],
+  "layers": [
+    {
+      "ddd": 0,
+      "ind": 1,
+      "ty": 2,
+      "nm": "Union (17).png",
+      "cl": "png",
+      "refId": "image_0",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [216.75, 280.25, 0], "ix": 2, "l": 2 },
+        "a": { "a": 0, "k": [0, 293, 0], "ix": 1, "l": 2 },
+        "s": {
+          "a": 1,
+          "k": [
+            {
+              "i": { "x": [0.75, 0.75, 0.75], "y": [1, 1, 1] },
+              "o": { "x": [0.75, 0.75, 0.75], "y": [0, 0, 0] },
+              "t": 0,
+              "s": [50, 50, 100]
+            },
+            { "t": 46, "s": [0, 0, 100] }
+          ],
+          "ix": 6,
+          "l": 2
+        }
+      },
+      "ao": 0,
+      "ip": 0,
+      "op": 720,
+      "st": 0,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 2,
+      "ty": 4,
+      "nm": "yellow line",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [404, 250, 0], "ix": 2, "l": 2 },
+        "a": { "a": 0, "k": [0, 0, 0], "ix": 1, "l": 2 },
+        "s": { "a": 0, "k": [100, 100, 100], "ix": 6, "l": 2 }
+      },
+      "ao": 0,
+      "shapes": [
+        {
+          "ty": "gr",
+          "it": [
+            {
+              "ind": 0,
+              "ty": "sh",
+              "ix": 1,
+              "ks": {
+                "a": 0,
+                "k": {
+                  "i": [
+                    [0, 0],
+                    [0, 0]
+                  ],
+                  "o": [
+                    [0, 0],
+                    [0, 0]
+                  ],
+                  "v": [
+                    [-81.5, -113.5],
+                    [-81.5, 117.5]
+                  ],
+                  "c": false
+                },
+                "ix": 2
+              },
+              "nm": "Path 1",
+              "mn": "ADBE Vector Shape - Group",
+              "hd": false
+            },
+            {
+              "ty": "st",
+              "c": {
+                "a": 0,
+                "k": [0.964705942191, 0.89019613827, 0.576470588235, 1],
+                "ix": 3
+              },
+              "o": { "a": 0, "k": 100, "ix": 4 },
+              "w": { "a": 0, "k": 74, "ix": 5 },
+              "lc": 1,
+              "lj": 1,
+              "ml": 4,
+              "bm": 0,
+              "nm": "Stroke 1",
+              "mn": "ADBE Vector Graphic - Stroke",
+              "hd": false
+            },
+            {
+              "ty": "tr",
+              "p": { "a": 0, "k": [5, 0], "ix": 2 },
+              "a": { "a": 0, "k": [0, 0], "ix": 1 },
+              "s": { "a": 0, "k": [100, 100], "ix": 3 },
+              "r": { "a": 0, "k": 0, "ix": 6 },
+              "o": { "a": 0, "k": 100, "ix": 7 },
+              "sk": { "a": 0, "k": 0, "ix": 4 },
+              "sa": { "a": 0, "k": 0, "ix": 5 },
+              "nm": "Transform"
+            }
+          ],
+          "nm": "Shape 1",
+          "np": 3,
+          "cix": 2,
+          "bm": 0,
+          "ix": 1,
+          "mn": "ADBE Vector Group",
+          "hd": false
+        },
+        {
+          "ty": "tm",
+          "s": {
+            "a": 1,
+            "k": [
+              {
+                "i": { "x": [0.25], "y": [1] },
+                "o": { "x": [0.25], "y": [0] },
+                "t": 112,
+                "s": [100]
+              },
+              { "t": 154, "s": [53] }
+            ],
+            "ix": 1
+          },
+          "e": { "a": 0, "k": 100, "ix": 2 },
+          "o": { "a": 0, "k": 0, "ix": 3 },
+          "m": 1,
+          "ix": 2,
+          "nm": "Trim Paths 1",
+          "mn": "ADBE Vector Filter - Trim",
+          "hd": false
+        }
+      ],
+      "ip": 6,
+      "op": 726,
+      "st": 6,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 3,
+      "ty": 4,
+      "nm": "pink line",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [326, 250, 0], "ix": 2, "l": 2 },
+        "a": { "a": 0, "k": [0, 0, 0], "ix": 1, "l": 2 },
+        "s": { "a": 0, "k": [100, 100, 100], "ix": 6, "l": 2 }
+      },
+      "ao": 0,
+      "shapes": [
+        {
+          "ty": "gr",
+          "it": [
+            {
+              "ind": 0,
+              "ty": "sh",
+              "ix": 1,
+              "ks": {
+                "a": 0,
+                "k": {
+                  "i": [
+                    [0, 0],
+                    [0, 0]
+                  ],
+                  "o": [
+                    [0, 0],
+                    [0, 0]
+                  ],
+                  "v": [
+                    [-81.5, -113.5],
+                    [-81.5, 117.5]
+                  ],
+                  "c": false
+                },
+                "ix": 2
+              },
+              "nm": "Path 1",
+              "mn": "ADBE Vector Shape - Group",
+              "hd": false
+            },
+            {
+              "ty": "st",
+              "c": {
+                "a": 0,
+                "k": [0.894117706897, 0.698039215686, 0.921568687289, 1],
+                "ix": 3
+              },
+              "o": { "a": 0, "k": 100, "ix": 4 },
+              "w": { "a": 0, "k": 74, "ix": 5 },
+              "lc": 1,
+              "lj": 1,
+              "ml": 4,
+              "bm": 0,
+              "nm": "Stroke 1",
+              "mn": "ADBE Vector Graphic - Stroke",
+              "hd": false
+            },
+            {
+              "ty": "tr",
+              "p": { "a": 0, "k": [5, 0], "ix": 2 },
+              "a": { "a": 0, "k": [0, 0], "ix": 1 },
+              "s": { "a": 0, "k": [100, 100], "ix": 3 },
+              "r": { "a": 0, "k": 0, "ix": 6 },
+              "o": { "a": 0, "k": 100, "ix": 7 },
+              "sk": { "a": 0, "k": 0, "ix": 4 },
+              "sa": { "a": 0, "k": 0, "ix": 5 },
+              "nm": "Transform"
+            }
+          ],
+          "nm": "Shape 1",
+          "np": 3,
+          "cix": 2,
+          "bm": 0,
+          "ix": 1,
+          "mn": "ADBE Vector Group",
+          "hd": false
+        },
+        {
+          "ty": "tm",
+          "s": {
+            "a": 1,
+            "k": [
+              {
+                "i": { "x": [0.25], "y": [1] },
+                "o": { "x": [0.25], "y": [0] },
+                "t": 102,
+                "s": [100]
+              },
+              { "t": 144, "s": [27] }
+            ],
+            "ix": 1
+          },
+          "e": { "a": 0, "k": 100, "ix": 2 },
+          "o": { "a": 0, "k": 0, "ix": 3 },
+          "m": 1,
+          "ix": 2,
+          "nm": "Trim Paths 1",
+          "mn": "ADBE Vector Filter - Trim",
+          "hd": false
+        }
+      ],
+      "ip": 0,
+      "op": 720,
+      "st": 0,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 4,
+      "ty": 4,
+      "nm": "blue line 2",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [250, 250, 0], "ix": 2, "l": 2 },
+        "a": { "a": 0, "k": [0, 0, 0], "ix": 1, "l": 2 },
+        "s": { "a": 0, "k": [100, 100, 100], "ix": 6, "l": 2 }
+      },
+      "ao": 0,
+      "ef": [
+        {
+          "ty": 5,
+          "nm": "Gradient Ramp",
+          "np": 10,
+          "mn": "ADBE Ramp",
+          "ix": 1,
+          "en": 1,
+          "ef": [
+            {
+              "ty": 3,
+              "nm": "Start of Ramp",
+              "mn": "ADBE Ramp-0001",
+              "ix": 1,
+              "v": { "a": 0, "k": [240.046, 203.241], "ix": 1 }
+            },
+            {
+              "ty": 2,
+              "nm": "Start Color",
+              "mn": "ADBE Ramp-0002",
+              "ix": 2,
+              "v": {
+                "a": 0,
+                "k": [0.89411765337, 0.698039233685, 0.921568632126, 1],
+                "ix": 2
+              }
+            },
+            {
+              "ty": 3,
+              "nm": "End of Ramp",
+              "mn": "ADBE Ramp-0003",
+              "ix": 3,
+              "v": { "a": 0, "k": [214.352, 240.278], "ix": 3 }
+            },
+            {
+              "ty": 2,
+              "nm": "End Color",
+              "mn": "ADBE Ramp-0004",
+              "ix": 4,
+              "v": {
+                "a": 0,
+                "k": [0.474509805441, 0.501960813999, 0.96862745285, 1],
+                "ix": 4
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Ramp Shape",
+              "mn": "ADBE Ramp-0005",
+              "ix": 5,
+              "v": { "a": 0, "k": 1, "ix": 5 }
+            },
+            {
+              "ty": 0,
+              "nm": "Ramp Scatter",
+              "mn": "ADBE Ramp-0006",
+              "ix": 6,
+              "v": { "a": 0, "k": 0, "ix": 6 }
+            },
+            {
+              "ty": 0,
+              "nm": "Blend With Original",
+              "mn": "ADBE Ramp-0007",
+              "ix": 7,
+              "v": { "a": 0, "k": 0, "ix": 7 }
+            },
+            { "ty": 6, "nm": "", "mn": "ADBE Ramp-0008", "ix": 8, "v": 0 }
+          ]
+        }
+      ],
+      "shapes": [
+        {
+          "ty": "gr",
+          "it": [
+            {
+              "ind": 0,
+              "ty": "sh",
+              "ix": 1,
+              "ks": {
+                "a": 0,
+                "k": {
+                  "i": [
+                    [0, 0],
+                    [0, 0]
+                  ],
+                  "o": [
+                    [0, 0],
+                    [0, 0]
+                  ],
+                  "v": [
+                    [-81.5, -113.5],
+                    [-81.5, 117.5]
+                  ],
+                  "c": false
+                },
+                "ix": 2
+              },
+              "nm": "Path 1",
+              "mn": "ADBE Vector Shape - Group",
+              "hd": false
+            },
+            {
+              "ty": "st",
+              "c": {
+                "a": 0,
+                "k": [0.474509833841, 0.501960784314, 0.968627510819, 1],
+                "ix": 3
+              },
+              "o": { "a": 0, "k": 100, "ix": 4 },
+              "w": { "a": 0, "k": 74, "ix": 5 },
+              "lc": 1,
+              "lj": 1,
+              "ml": 4,
+              "bm": 0,
+              "nm": "Stroke 1",
+              "mn": "ADBE Vector Graphic - Stroke",
+              "hd": false
+            },
+            {
+              "ty": "tr",
+              "p": { "a": 0, "k": [5, 0], "ix": 2 },
+              "a": { "a": 0, "k": [0, 0], "ix": 1 },
+              "s": { "a": 0, "k": [100, 100], "ix": 3 },
+              "r": { "a": 0, "k": 0, "ix": 6 },
+              "o": { "a": 0, "k": 100, "ix": 7 },
+              "sk": { "a": 0, "k": 0, "ix": 4 },
+              "sa": { "a": 0, "k": 0, "ix": 5 },
+              "nm": "Transform"
+            }
+          ],
+          "nm": "Shape 1",
+          "np": 3,
+          "cix": 2,
+          "bm": 0,
+          "ix": 1,
+          "mn": "ADBE Vector Group",
+          "hd": false
+        },
+        {
+          "ty": "tm",
+          "s": {
+            "a": 1,
+            "k": [
+              {
+                "i": { "x": [0.25], "y": [1] },
+                "o": { "x": [0.25], "y": [0] },
+                "t": 90,
+                "s": [100]
+              },
+              { "t": 132, "s": [0] }
+            ],
+            "ix": 1
+          },
+          "e": { "a": 0, "k": 100, "ix": 2 },
+          "o": { "a": 0, "k": 0, "ix": 3 },
+          "m": 1,
+          "ix": 2,
+          "nm": "Trim Paths 1",
+          "mn": "ADBE Vector Filter - Trim",
+          "hd": false
+        }
+      ],
+      "ip": 0,
+      "op": 720,
+      "st": 0,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 5,
+      "ty": 4,
+      "nm": "blue line",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [250, 250, 0], "ix": 2, "l": 2 },
+        "a": { "a": 0, "k": [0, 0, 0], "ix": 1, "l": 2 },
+        "s": { "a": 0, "k": [100, 100, 100], "ix": 6, "l": 2 }
+      },
+      "ao": 0,
+      "ef": [
+        {
+          "ty": 5,
+          "nm": "Gradient Ramp",
+          "np": 10,
+          "mn": "ADBE Ramp",
+          "ix": 1,
+          "en": 1,
+          "ef": [
+            {
+              "ty": 3,
+              "nm": "Start of Ramp",
+              "mn": "ADBE Ramp-0001",
+              "ix": 1,
+              "v": { "a": 0, "k": [240.046, 203.241], "ix": 1 }
+            },
+            {
+              "ty": 2,
+              "nm": "Start Color",
+              "mn": "ADBE Ramp-0002",
+              "ix": 2,
+              "v": {
+                "a": 0,
+                "k": [0.89411765337, 0.698039233685, 0.921568632126, 1],
+                "ix": 2
+              }
+            },
+            {
+              "ty": 3,
+              "nm": "End of Ramp",
+              "mn": "ADBE Ramp-0003",
+              "ix": 3,
+              "v": { "a": 0, "k": [214.352, 240.278], "ix": 3 }
+            },
+            {
+              "ty": 2,
+              "nm": "End Color",
+              "mn": "ADBE Ramp-0004",
+              "ix": 4,
+              "v": {
+                "a": 0,
+                "k": [0.474509805441, 0.501960813999, 0.96862745285, 1],
+                "ix": 4
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Ramp Shape",
+              "mn": "ADBE Ramp-0005",
+              "ix": 5,
+              "v": { "a": 0, "k": 1, "ix": 5 }
+            },
+            {
+              "ty": 0,
+              "nm": "Ramp Scatter",
+              "mn": "ADBE Ramp-0006",
+              "ix": 6,
+              "v": { "a": 0, "k": 0, "ix": 6 }
+            },
+            {
+              "ty": 0,
+              "nm": "Blend With Original",
+              "mn": "ADBE Ramp-0007",
+              "ix": 7,
+              "v": { "a": 0, "k": 0, "ix": 7 }
+            },
+            { "ty": 6, "nm": "", "mn": "ADBE Ramp-0008", "ix": 8, "v": 0 }
+          ]
+        }
+      ],
+      "shapes": [
+        {
+          "ty": "gr",
+          "it": [
+            {
+              "ind": 0,
+              "ty": "sh",
+              "ix": 1,
+              "ks": {
+                "a": 0,
+                "k": {
+                  "i": [
+                    [0, 0],
+                    [0, 0]
+                  ],
+                  "o": [
+                    [0, 0],
+                    [0, 0]
+                  ],
+                  "v": [
+                    [-81.5, -113.5],
+                    [-81.5, 117.5]
+                  ],
+                  "c": false
+                },
+                "ix": 2
+              },
+              "nm": "Path 1",
+              "mn": "ADBE Vector Shape - Group",
+              "hd": false
+            },
+            {
+              "ty": "st",
+              "c": {
+                "a": 0,
+                "k": [0.952941176471, 0.952941176471, 0.952941176471, 1],
+                "ix": 3
+              },
+              "o": { "a": 0, "k": 100, "ix": 4 },
+              "w": { "a": 0, "k": 74, "ix": 5 },
+              "lc": 1,
+              "lj": 1,
+              "ml": 4,
+              "bm": 0,
+              "nm": "Stroke 1",
+              "mn": "ADBE Vector Graphic - Stroke",
+              "hd": false
+            },
+            {
+              "ty": "tr",
+              "p": { "a": 0, "k": [5, 0], "ix": 2 },
+              "a": { "a": 0, "k": [0, 0], "ix": 1 },
+              "s": { "a": 0, "k": [100, 100], "ix": 3 },
+              "r": { "a": 0, "k": 0, "ix": 6 },
+              "o": { "a": 0, "k": 100, "ix": 7 },
+              "sk": { "a": 0, "k": 0, "ix": 4 },
+              "sa": { "a": 0, "k": 0, "ix": 5 },
+              "nm": "Transform"
+            }
+          ],
+          "nm": "Shape 1",
+          "np": 3,
+          "cix": 2,
+          "bm": 0,
+          "ix": 1,
+          "mn": "ADBE Vector Group",
+          "hd": false
+        },
+        {
+          "ty": "tm",
+          "s": {
+            "a": 1,
+            "k": [
+              {
+                "i": { "x": [0.25], "y": [1] },
+                "o": { "x": [0.25], "y": [0] },
+                "t": 90,
+                "s": [100]
+              },
+              { "t": 132, "s": [0] }
+            ],
+            "ix": 1
+          },
+          "e": { "a": 0, "k": 100, "ix": 2 },
+          "o": { "a": 0, "k": 0, "ix": 3 },
+          "m": 1,
+          "ix": 2,
+          "nm": "Trim Paths 1",
+          "mn": "ADBE Vector Filter - Trim",
+          "hd": false
+        }
+      ],
+      "ip": 0,
+      "op": 720,
+      "st": 0,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 6,
+      "ty": 4,
+      "nm": "blue stroke",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": {
+          "a": 1,
+          "k": [
+            {
+              "i": { "x": 0.4, "y": 1 },
+              "o": { "x": 0.6, "y": 0 },
+              "t": 52,
+              "s": [250, 252.5, 0],
+              "to": [0, 16.083, 0],
+              "ti": [0, -16.083, 0]
+            },
+            { "t": 92, "s": [250, 354.5, 0] }
+          ],
+          "ix": 2,
+          "l": 2
+        },
+        "a": { "a": 0, "k": [6.25, 16.25, 0], "ix": 1, "l": 2 },
+        "s": {
+          "a": 1,
+          "k": [
+            {
+              "i": { "x": [0.4, 0.4, 0.4], "y": [1, 1, 1] },
+              "o": { "x": [0.6, 0.6, 0.6], "y": [0, 0, 0] },
+              "t": 52,
+              "s": [70, 70, 100]
+            },
+            { "t": 92, "s": [113, 113, 100] }
+          ],
+          "ix": 6,
+          "l": 2
+        }
+      },
+      "ao": 0,
+      "ef": [
+        {
+          "ty": 5,
+          "nm": "Gradient Ramp",
+          "np": 10,
+          "mn": "ADBE Ramp",
+          "ix": 1,
+          "en": 1,
+          "ef": [
+            {
+              "ty": 3,
+              "nm": "Start of Ramp",
+              "mn": "ADBE Ramp-0001",
+              "ix": 1,
+              "v": { "a": 0, "k": [221.296, 217.824], "ix": 1 }
+            },
+            {
+              "ty": 2,
+              "nm": "Start Color",
+              "mn": "ADBE Ramp-0002",
+              "ix": 2,
+              "v": {
+                "a": 0,
+                "k": [0.89411765337, 0.698039233685, 0.921568632126, 1],
+                "ix": 2
+              }
+            },
+            {
+              "ty": 3,
+              "nm": "End of Ramp",
+              "mn": "ADBE Ramp-0003",
+              "ix": 3,
+              "v": { "a": 0, "k": [256.019, 259.028], "ix": 3 }
+            },
+            {
+              "ty": 2,
+              "nm": "End Color",
+              "mn": "ADBE Ramp-0004",
+              "ix": 4,
+              "v": {
+                "a": 0,
+                "k": [0.474509805441, 0.501960813999, 0.96862745285, 1],
+                "ix": 4
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Ramp Shape",
+              "mn": "ADBE Ramp-0005",
+              "ix": 5,
+              "v": { "a": 0, "k": 1, "ix": 5 }
+            },
+            {
+              "ty": 0,
+              "nm": "Ramp Scatter",
+              "mn": "ADBE Ramp-0006",
+              "ix": 6,
+              "v": { "a": 0, "k": 0, "ix": 6 }
+            },
+            {
+              "ty": 0,
+              "nm": "Blend With Original",
+              "mn": "ADBE Ramp-0007",
+              "ix": 7,
+              "v": { "a": 0, "k": 0, "ix": 7 }
+            },
+            { "ty": 6, "nm": "", "mn": "ADBE Ramp-0008", "ix": 8, "v": 0 }
+          ]
+        }
+      ],
+      "shapes": [
+        {
+          "ty": "gr",
+          "it": [
+            {
+              "d": 1,
+              "ty": "el",
+              "s": { "a": 0, "k": [126.5, 126.5], "ix": 2 },
+              "p": { "a": 0, "k": [0, 0], "ix": 3 },
+              "nm": "Ellipse Path 1",
+              "mn": "ADBE Vector Shape - Ellipse",
+              "hd": false
+            },
+            {
+              "ty": "st",
+              "c": {
+                "a": 0,
+                "k": [0.474509803922, 0.501960784314, 0.96862745098, 1],
+                "ix": 3
+              },
+              "o": { "a": 0, "k": 100, "ix": 4 },
+              "w": {
+                "a": 1,
+                "k": [
+                  {
+                    "i": { "x": [0.833], "y": [0.833] },
+                    "o": { "x": [0.167], "y": [0.167] },
+                    "t": 58,
+                    "s": [43]
+                  },
+                  { "t": 78, "s": [53] }
+                ],
+                "ix": 5
+              },
+              "lc": 1,
+              "lj": 1,
+              "ml": 4,
+              "bm": 0,
+              "nm": "Stroke 1",
+              "mn": "ADBE Vector Graphic - Stroke",
+              "hd": false
+            },
+            {
+              "ty": "tr",
+              "p": { "a": 0, "k": [6.25, 12.679], "ix": 2 },
+              "a": { "a": 0, "k": [0, 0], "ix": 1 },
+              "s": { "a": 0, "k": [109.489, 109.489], "ix": 3 },
+              "r": { "a": 0, "k": 0, "ix": 6 },
+              "o": { "a": 0, "k": 100, "ix": 7 },
+              "sk": { "a": 0, "k": 0, "ix": 4 },
+              "sa": { "a": 0, "k": 0, "ix": 5 },
+              "nm": "Transform"
+            }
+          ],
+          "nm": "Ellipse 1",
+          "np": 3,
+          "cix": 2,
+          "bm": 0,
+          "ix": 1,
+          "mn": "ADBE Vector Group",
+          "hd": false
+        },
+        {
+          "ty": "tm",
+          "s": {
+            "a": 1,
+            "k": [
+              {
+                "i": { "x": [0.75], "y": [1] },
+                "o": { "x": [0.75], "y": [0] },
+                "t": 24,
+                "s": [0]
+              },
+              { "t": 92, "s": [100] }
+            ],
+            "ix": 1
+          },
+          "e": { "a": 0, "k": 100, "ix": 2 },
+          "o": { "a": 0, "k": -95, "ix": 3 },
+          "m": 1,
+          "ix": 2,
+          "nm": "Trim Paths 1",
+          "mn": "ADBE Vector Filter - Trim",
+          "hd": false
+        }
+      ],
+      "ip": 0,
+      "op": 720,
+      "st": 0,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 7,
+      "ty": 4,
+      "nm": "pink stroke",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": {
+          "a": 1,
+          "k": [
+            {
+              "i": { "x": 0.75, "y": 1 },
+              "o": { "x": 0.75, "y": 0 },
+              "t": 64,
+              "s": [250, 254.643, 0],
+              "to": [0, 0, 0],
+              "ti": [0, 0, 0]
+            },
+            { "t": 104, "s": [319, 354.5, 0] }
+          ],
+          "ix": 2,
+          "l": 2
+        },
+        "a": { "a": 0, "k": [6.25, 16.25, 0], "ix": 1, "l": 2 },
+        "s": {
+          "a": 1,
+          "k": [
+            {
+              "i": { "x": [0.4, 0.4, 0.4], "y": [1, 1, 1] },
+              "o": { "x": [0.6, 0.6, 0.6], "y": [0, 0, 0] },
+              "t": 64,
+              "s": [130, 130, 100]
+            },
+            { "t": 104, "s": [113, 113, 100] }
+          ],
+          "ix": 6,
+          "l": 2
+        }
+      },
+      "ao": 0,
+      "shapes": [
+        {
+          "ty": "gr",
+          "it": [
+            {
+              "d": 1,
+              "ty": "el",
+              "s": { "a": 0, "k": [126.5, 126.5], "ix": 2 },
+              "p": { "a": 0, "k": [0, 0], "ix": 3 },
+              "nm": "Ellipse Path 1",
+              "mn": "ADBE Vector Shape - Ellipse",
+              "hd": false
+            },
+            {
+              "ty": "st",
+              "c": {
+                "a": 0,
+                "k": [0.894117706897, 0.698039215686, 0.921568687289, 1],
+                "ix": 3
+              },
+              "o": { "a": 0, "k": 100, "ix": 4 },
+              "w": {
+                "a": 1,
+                "k": [
+                  {
+                    "i": { "x": [0.833], "y": [0.833] },
+                    "o": { "x": [0.167], "y": [0.167] },
+                    "t": 64,
+                    "s": [27]
+                  },
+                  { "t": 90, "s": [53] }
+                ],
+                "ix": 5
+              },
+              "lc": 1,
+              "lj": 1,
+              "ml": 4,
+              "bm": 0,
+              "nm": "Stroke 1",
+              "mn": "ADBE Vector Graphic - Stroke",
+              "hd": false
+            },
+            {
+              "ty": "tr",
+              "p": { "a": 0, "k": [6.25, 12.679], "ix": 2 },
+              "a": { "a": 0, "k": [0, 0], "ix": 1 },
+              "s": { "a": 0, "k": [109.489, 109.489], "ix": 3 },
+              "r": { "a": 0, "k": 0, "ix": 6 },
+              "o": { "a": 0, "k": 100, "ix": 7 },
+              "sk": { "a": 0, "k": 0, "ix": 4 },
+              "sa": { "a": 0, "k": 0, "ix": 5 },
+              "nm": "Transform"
+            }
+          ],
+          "nm": "Ellipse 1",
+          "np": 3,
+          "cix": 2,
+          "bm": 0,
+          "ix": 1,
+          "mn": "ADBE Vector Group",
+          "hd": false
+        },
+        {
+          "ty": "tm",
+          "s": {
+            "a": 1,
+            "k": [
+              {
+                "i": { "x": [0.75], "y": [1] },
+                "o": { "x": [0.75], "y": [0] },
+                "t": 36,
+                "s": [0]
+              },
+              { "t": 104, "s": [100] }
+            ],
+            "ix": 1
+          },
+          "e": { "a": 0, "k": 100, "ix": 2 },
+          "o": { "a": 0, "k": -95, "ix": 3 },
+          "m": 1,
+          "ix": 2,
+          "nm": "Trim Paths 1",
+          "mn": "ADBE Vector Filter - Trim",
+          "hd": false
+        }
+      ],
+      "ip": 0,
+      "op": 720,
+      "st": 0,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 8,
+      "ty": 4,
+      "nm": "yellow stroke",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": {
+          "a": 1,
+          "k": [
+            {
+              "i": { "x": 0.75, "y": 1 },
+              "o": { "x": 0.75, "y": 0 },
+              "t": 82,
+              "s": [250, 250.893, 0],
+              "to": [0, 0, 0],
+              "ti": [0, 0, 0]
+            },
+            { "t": 108, "s": [389, 354.5, 0] }
+          ],
+          "ix": 2,
+          "l": 2
+        },
+        "a": { "a": 0, "k": [6.25, 16.25, 0], "ix": 1, "l": 2 },
+        "s": {
+          "a": 1,
+          "k": [
+            {
+              "i": { "x": [0.4, 0.4, 0.4], "y": [1, 1, 1] },
+              "o": { "x": [0.6, 0.6, 0.6], "y": [0, 0, 0] },
+              "t": 82,
+              "s": [25, 25, 100]
+            },
+            { "t": 108, "s": [113, 113, 100] }
+          ],
+          "ix": 6,
+          "l": 2
+        }
+      },
+      "ao": 0,
+      "shapes": [
+        {
+          "ty": "gr",
+          "it": [
+            {
+              "d": 1,
+              "ty": "el",
+              "s": { "a": 0, "k": [126.5, 126.5], "ix": 2 },
+              "p": { "a": 0, "k": [0, 0], "ix": 3 },
+              "nm": "Ellipse Path 1",
+              "mn": "ADBE Vector Shape - Ellipse",
+              "hd": false
+            },
+            {
+              "ty": "st",
+              "c": {
+                "a": 1,
+                "k": [
+                  {
+                    "i": { "x": [0.833], "y": [0.833] },
+                    "o": { "x": [0.167], "y": [0.167] },
+                    "t": 90,
+                    "s": [0.894117706897, 0.698039215686, 0.921568687289, 1]
+                  },
+                  {
+                    "t": 106,
+                    "s": [0.964705884457, 0.890196084976, 0.57647061348, 1]
+                  }
+                ],
+                "ix": 3
+              },
+              "o": { "a": 0, "k": 100, "ix": 4 },
+              "w": {
+                "a": 1,
+                "k": [
+                  {
+                    "i": { "x": [0.833], "y": [0.833] },
+                    "o": { "x": [0.167], "y": [0.167] },
+                    "t": 82,
+                    "s": [103]
+                  },
+                  { "t": 108, "s": [53] }
+                ],
+                "ix": 5
+              },
+              "lc": 1,
+              "lj": 1,
+              "ml": 4,
+              "bm": 0,
+              "nm": "Stroke 1",
+              "mn": "ADBE Vector Graphic - Stroke",
+              "hd": false
+            },
+            {
+              "ty": "tr",
+              "p": { "a": 0, "k": [6.25, 12.679], "ix": 2 },
+              "a": { "a": 0, "k": [0, 0], "ix": 1 },
+              "s": { "a": 0, "k": [109.489, 109.489], "ix": 3 },
+              "r": { "a": 0, "k": 0, "ix": 6 },
+              "o": { "a": 0, "k": 100, "ix": 7 },
+              "sk": { "a": 0, "k": 0, "ix": 4 },
+              "sa": { "a": 0, "k": 0, "ix": 5 },
+              "nm": "Transform"
+            }
+          ],
+          "nm": "Ellipse 1",
+          "np": 3,
+          "cix": 2,
+          "bm": 0,
+          "ix": 1,
+          "mn": "ADBE Vector Group",
+          "hd": false
+        },
+        {
+          "ty": "tm",
+          "s": {
+            "a": 1,
+            "k": [
+              {
+                "i": { "x": [0.75], "y": [1] },
+                "o": { "x": [0.75], "y": [0] },
+                "t": 54,
+                "s": [0]
+              },
+              { "t": 114, "s": [100] }
+            ],
+            "ix": 1
+          },
+          "e": { "a": 0, "k": 100, "ix": 2 },
+          "o": { "a": 0, "k": -95, "ix": 3 },
+          "m": 1,
+          "ix": 2,
+          "nm": "Trim Paths 1",
+          "mn": "ADBE Vector Filter - Trim",
+          "hd": false
+        }
+      ],
+      "ip": 0,
+      "op": 720,
+      "st": 0,
+      "bm": 0
+    }
+  ],
+  "markers": []
+}

@@ -1,0 +1,25 @@
+.bar-graph-container {
+  height: 220px;
+  width: 180px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 10px;
+
+  .bar {
+    transform-origin: 0 100%;
+    flex: 1;
+    &.left-violet {
+      height: 100%;
+      background: #776fed;
+    }
+    &.center-pink {
+      height: 70%;
+      background: #e4b2eb;
+    }
+    &.right-yellow {
+      height: 40%;
+      background: #f6e393;
+    }
+  }
+}

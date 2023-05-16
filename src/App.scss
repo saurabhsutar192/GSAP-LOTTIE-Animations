@@ -1,0 +1,44 @@
+@import "./components/FlashDart/FlashDart.scss";
+@import "./components/BarGraph/barGraph.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.svg-container {
+  display: flex;
+  // justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  height: 2000px;
+}
+
+// .diamond-container,
+// .flash-container {
+//   position: relative;
+// }
+
+// // .flash-container {
+// //   display: none;
+// // }
+
+// // .circle {
+// //   transform: rotate(90deg);
+// // }
+
+// .diamond-container {
+//   .center-yellow {
+//     position: absolute;
+//     left: calc(50% + 17px);
+//     top: calc(50% - 17px);
+//     transform: translate(-50%, -50%);
+//   }
+//   .pink-inner {
+//     position: absolute;
+//     left: calc(50% - 23px);
+//     top: calc(50% - 125px);
+//     transform: translate(-50%, -50%);
+//   }
+// }

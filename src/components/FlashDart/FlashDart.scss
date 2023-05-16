@@ -1,0 +1,25 @@
+.flash-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  .circle {
+    transform: rotate(180deg);
+    &.violet-center,
+    &.pink-inner {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%) rotate(180deg);
+    }
+  }
+}
+
+.flash-container {
+  .flash {
+    position: absolute;
+    left: calc(50% + 30px);
+    top: calc(50% - 50px);
+    transform: translate(-50%, -50%);
+  }
+}
