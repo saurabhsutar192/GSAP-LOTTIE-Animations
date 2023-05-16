@@ -19,7 +19,7 @@ function App() {
         trigger: ".flash-container",
         markers: true,
         start: "top 30%", // when the top of the trigger hits the top of the viewport
-        end: "bottom 50%", // end after scrolling 500px beyond the start
+        end: "bottom 40%", // end after scrolling 500px beyond the start
         scrub: 1, // smooth scrubbing, takes 1 second to "catch up" to the scrollbar
       },
     });
@@ -126,9 +126,13 @@ function App() {
         <img src={diamondYellow} className="back-violet" />
         <img src={diamondPink} className="top-pink" />
       </div> */}
+
       <FlashDart />
       <BarGraph />
+      <h1>GSAP</h1>
+
       <Lottie animationData={flashToBar} interactivity={interactivity} />
+      <h1>LOTTIE</h1>
     </div>
   );
 }
