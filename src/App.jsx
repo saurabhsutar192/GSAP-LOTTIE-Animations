@@ -21,10 +21,8 @@ function App() {
       scrub: 2,
       // onToggle: () => lottieRef.current.play(),
       onUpdate: (self) => {
-        lottieRef.current.goToAndStop(
-          progressToFramesConverter(self.progress, 151),
-          true
-        );
+        const frame = progressToFramesConverter(self.progress, 151);
+        lottieRef.current.goToAndStop(frame, true);
       },
     });
   }, []);

@@ -1,3 +1,3 @@
 export const progressToFramesConverter = (progress, maxFrames) => {
-  return parseInt(progress * maxFrames);
+  return progress * maxFrames;
 };
